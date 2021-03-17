@@ -17,6 +17,7 @@ Vi har også laget en jukselapp, som inneholder noe av de viktigste konseptene f
 ### Dag 2
 * Oppgaver for dag 2 finner du [her](dag2/oppgaver_dag2.pdf)
 * Bonusoppgaver for dag 2 finner du [her](dag2/bonusoppgaver_dag2.pdf)
+* Livekode for dag 2 finner du [her](dag2/live-koding/)
 
 ## Kursets innhold:
 Kurset vil passe for deg som har lite eller ingen programmeringserfaring fra før. I kurset vil du få erfaring med noen av de mest grunnleggende programmeringskonseptene, og ved slutten av kurset skal du kunne lage dine egne små dataprogram.
