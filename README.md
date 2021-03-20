@@ -11,12 +11,16 @@ Vi har også laget en jukselapp, som inneholder noe av de viktigste konseptene f
 
 ### Dag 1
 * Oppgaver for dag 1 finner du [her](dag1/oppgaver_dag1.pdf)
+* Løsningsforslag for oppgavene for dag 1 finner du [her](dag1/oppgaver_dag1_losningsforslag.pdf)
 * Bonusoppgaver for dag 1 finner du [her](dag1/bonusoppgaver_dag1.pdf)
+* Løsningsforslag for bonusoppgavene for dag 1 finner du [her](dag1/bonusoppgaver_dag1_losningsforslag.pdf)
 * Livekode for dag 1 finner du [her](dag1/live-koding/)
 
 ### Dag 2
 * Oppgaver for dag 2 finner du [her](dag2/oppgaver_dag2.pdf)
+* Løsningsforslag for oppgavene for dag 2 finner du [her](dag2/oppgaver_dag2_losningsforslag.pdf)
 * Bonusoppgaver for dag 2 finner du [her](dag2/bonusoppgaver_dag2.pdf)
+* Løsningsforslag for bonusoppgavene for dag 2 finner du [her](dag2/bonusoppgaver_dag2_losningsforslag.pdf)
 * Livekode for dag 2 finner du [her](dag2/live-koding/)
 
 ## Kursets innhold:
